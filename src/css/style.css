@@ -1,0 +1,161 @@
+body {
+  color: #f3f3f3;
+  font-family: 'VT323', monospace;
+  font-size: 18px;
+  
+  background-image: url(../imagens/fundo-site.gif);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 30px;
+}
+
+.card {
+  background-color: #070d12;
+  border: 2px solid #6fa2d8;
+  border-radius: 10px;
+  overflow: hidden;
+  width: 370px;
+}
+
+.card .my-info {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-top: 20px;
+}
+
+.card .my-info img {
+  border: 2px solid #6fa2d8;;
+  border-radius: 50px;
+  height: 96px;
+  width: 92px;
+}
+
+.card .my-info .name {
+  color: #6fa2d8;
+  font-size: 26px;
+}
+
+.card .my-info .profession {
+  font-size: 20px;
+}
+
+.card .content {
+  margin-top: 15px;
+}
+
+.card .content .tabs {
+  display: flex;
+}
+
+.card .tabs .tab {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+  transition: background-color 0.2s ease-in-out;
+  width: 50%;
+}
+
+.tabs img {
+  width: 30px;
+}
+
+.card .tabs .tab.selected {
+  background-color: #262626;
+}
+
+.card .tabs .tab:hover {
+  background-color: #414141;
+}
+
+.card .tabs-info {
+  background-color: #262626;
+}
+
+.tabs-info .info {
+  min-height: 260px;
+  padding: 15px;
+  display: none;
+}
+
+.tabs-info .info.selected {
+  display: block;
+}
+
+.tabs-info .subtitle {
+  font-size: 22px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.tabs-info .about {
+  font-size: 22px;
+  max-height: 140px;
+  padding-right: 10px;
+  overflow-y: auto;
+}
+
+.tabs-info .about span {
+  color: #6fa2d8;
+}
+
+.projects {
+  display: flex;
+  gap: 25px;
+  flex-direction: column;
+  align-items: center;
+  max-height: 180px;
+  overflow-y: auto;
+}
+
+.projects li a {
+  width: 250px;
+  display: block;
+  color: #f3f3f3;
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+  transition: opacity 0.s ease-in-out;
+}
+
+.projects li a:hover {
+  opacity: 0.5;
+}
+
+.projects .button {
+  background-color: #414141;;
+}
+
+.social-medias {
+  display: flex;
+  gap: 25px;
+  flex-direction: column;
+  align-items: center;
+  max-height: 180px;
+}
+
+.social-medias li a {
+  width: 250px;
+  display: block;
+  color: #f3f3f3;
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+  transition: opacity 0.s ease-in-out;
+}
+
+.social-medias li a:hover {
+  opacity: 0.5;
+}
+
+.social-medias .button {
+  background-color: #414141;;
+}

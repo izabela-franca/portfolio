@@ -34,7 +34,7 @@ Os projetos deste portfólio foram desenvolvido com as seguintes tecnologias:
 -  <a href = "https://github.com/izabela-franca/grid-component"> Componente de Preço </a>
 -  <a href = "https://github.com/izabela-franca/calculator"> Calculadora </a>
 - <a href="https:https://izabela-franca.github.io/busca-cep/"> Busca CEP </a>
-- <a href="https://github.com/izabela-franca/desafio3_ti_academy"> Nossa Kitanda </a>
+- <a href="https://izabela-franca.github.io/shopping-cart/"> Nossa Kitanda </a>
 
 
 ## :memo: Licença

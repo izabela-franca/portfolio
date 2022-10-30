@@ -28,6 +28,7 @@ Os projetos deste portfólio foram desenvolvido com as seguintes tecnologias:
 - JavaScript 
 - Node.Js
 - Banco de Dados MongoDB
+- Banco de Dados MySQL
 
 
 ## 💻 Projetos e seus repositórios
@@ -37,6 +38,7 @@ Os projetos deste portfólio foram desenvolvido com as seguintes tecnologias:
 - <a href="https://github.com/izabela-franca/busca-cep"> Busca CEP </a>
 - <a href="https://github.com/izabela-franca/shopping-cart"> Nossa Kitanda </a>
 - <a href="https://github.com/izabela-franca/CRUD_bookstore"> CRUD com MongoDB </a>
+- <a href="https://github.com/izabela-franca/CRUD-cartao-fidelidade"> CRUD com MySQL </a>
 
 
 ## :memo: Licença

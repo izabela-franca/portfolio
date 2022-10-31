@@ -26,9 +26,11 @@ Os projetos deste portfólio foram desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript 
-- Node.Js
+- Node.js
 - Banco de Dados MongoDB
+- Mongoose
 - Banco de Dados MySQL
+- Sequelize
 
 
 ## 💻 Projetos e seus repositórios

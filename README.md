@@ -39,7 +39,7 @@ Os projetos deste portfólio foram desenvolvido com as seguintes tecnologias:
 -  <a href = "https://github.com/izabela-franca/the-legend-of-zelda-landing-page"> The Legend of Zelda Landing Page </a>
 -  <a href = "https://github.com/izabela-franca/calculator"> Calculadora </a>
 - <a href="https://github.com/izabela-franca/busca-cep"> Busca CEP </a>
-- <a href="https://github.com/izabela-franca/shopping-cart"> Nossa Kitanda </a>
+- <a href="https://github.com/izabela-franca/shopping-cart"> Carrinho de Compra </a>
 - <a href="https://github.com/izabela-franca/CRUD-cartao-fidelidade"> CRUD com MySQL </a>
 - <a href="https://github.com/izabela-franca/CRUD-bookstore"> CRUD com MongoDB </a>
 

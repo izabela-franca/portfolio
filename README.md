@@ -36,7 +36,7 @@ Os projetos deste portfólio foram desenvolvido com as seguintes tecnologias:
 ## 💻 Projetos e seus repositórios
 
 -  <a href = "https://github.com/izabela-franca/grid-component"> Componente de Preço </a>
--  <a href = "https://github.com/izabela-franca/the-legend-of-zelda-project"> The Legend of Zelda Project </a>
+-  <a href = "https://github.com/izabela-franca/the-legend-of-zelda-landing-page"> The Legend of Zelda Landing Page </a>
 -  <a href = "https://github.com/izabela-franca/calculator"> Calculadora </a>
 - <a href="https://github.com/izabela-franca/busca-cep"> Busca CEP </a>
 - <a href="https://github.com/izabela-franca/shopping-cart"> Nossa Kitanda </a>

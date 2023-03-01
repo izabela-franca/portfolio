@@ -22,7 +22,7 @@ Olá, sejam bem-vindos(as)!
 
 ## 🚀 Tecnologias
 
-Os projetos deste portfólio foram desenvolvido com as seguintes tecnologias:
+Os projetos deste portfólio foram desenvolvido com as seguintes tecnologias/ferramentas:
 
 - HTML e CSS
 - JavaScript 
@@ -31,6 +31,9 @@ Os projetos deste portfólio foram desenvolvido com as seguintes tecnologias:
 - Mongoose
 - Banco de Dados MySQL
 - Sequelize
+- Banco de Dados PostrgreSQL
+- Java
+- Spring Boot
 
 
 ## 💻 Projetos e seus repositórios
@@ -40,8 +43,9 @@ Os projetos deste portfólio foram desenvolvido com as seguintes tecnologias:
 -  <a href = "https://github.com/izabela-franca/calculator"> Calculadora </a>
 - <a href="https://github.com/izabela-franca/busca-cep"> Busca CEP </a>
 - <a href="https://github.com/izabela-franca/shopping-cart"> Carrinho de Compra </a>
-- <a href="https://github.com/izabela-franca/CRUD-cartao-fidelidade"> CRUD com MySQL </a>
-- <a href="https://github.com/izabela-franca/CRUD-bookstore"> CRUD com MongoDB </a>
+- <a href="https://github.com/izabela-franca/springboot-api-rest"> API Rest com Spring Boot </a>
+- <a href="https://github.com/izabela-franca/CRUD-cartao-fidelidade"> CRUD com JavaScript </a>
+
 
 
 ## :memo: Licença

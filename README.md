@@ -36,7 +36,7 @@ Os projetos deste portfólio foram desenvolvido com as seguintes tecnologias/fer
 - Spring Boot
 
 
-## 💻 Projetos e seus repositórios
+## 💻 Projetos
 
 -  <a href = "https://github.com/izabela-franca/grid-component"> Componente de Preço </a>
 -  <a href = "https://github.com/izabela-franca/the-legend-of-zelda-landing-page"> The Legend of Zelda Landing Page </a>
